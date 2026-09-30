@@ -1,0 +1,11 @@
+id_producto,producto,familia,estilo,abv,ibu,formato,coste_unitario_eur_hl,precio_referencia_eur_hl,lanzamiento,activo
+CB001,Facultad IPA,IPA,India Pale Ale,0.062,55,Lata 33cl,185,365,Core,Sí
+CB002,Cátedra Imperial IPA,IPA,Double IPA,0.081,78,Lata 33cl,230,455,Nuevo,Sí
+CB003,Cisne White,Wheat,Witbier,0.048,18,Botella 33cl,150,310,Core,Sí
+CB004,Laboratorio Wheat,Wheat,Pale Wheat Ale,0.05,22,Botella 33cl,145,295,Core,Sí
+CB005,Rector Porter,Dark,Porter,0.058,35,Botella 33cl,170,330,Core,Sí
+CB006,Biblioteca Brown,Dark,Brown Ale,0.055,28,Botella 33cl,165,305,Core,Sí
+CB007,Campus Saison,Saison,Farmhouse Ale,0.064,30,Barril 20L,175,345,Nuevo,Sí
+CB008,Moncloa Amber,Amber,Amber Ale,0.052,32,Lata 33cl,155,315,Core,Sí
+CB009,Somosaguas Blonde  ,Blonde,Blonde Ale,0.047,20,Botella 33cl,135,285,Core,Sí
+CB010,Complutense Pale Ale,Pale Ale,American Pale Ale,0.056,42,Lata 33cl,160,335,Nuevo,Sí

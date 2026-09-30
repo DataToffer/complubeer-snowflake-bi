@@ -1,0 +1,9 @@
+canal_raw,canal_normalizado,tipo_canal,segmento,zona_comercial,prioridad_comercial
+HORECA,HORECA,Hostelería,Consumo fuera del hogar,Canal especializado,Alta
+Hostelería,HORECA,Hostelería,Consumo fuera del hogar,Canal especializado,Alta
+horeca,HORECA,Hostelería,Consumo fuera del hogar,Canal especializado,Alta
+HORECA ,HORECA,Hostelería,Consumo fuera del hogar,Canal especializado,Alta
+RETAIL,RETAIL,Retail,Gran consumo,Distribución alimentaria,Media
+Retail ,RETAIL,Retail,Gran consumo,Distribución alimentaria,Media
+Alimentación,RETAIL,Retail,Gran consumo,Distribución alimentaria,Media
+alimentacion,RETAIL,Retail,Gran consumo,Distribución alimentaria,Media
